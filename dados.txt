@@ -1,0 +1,39 @@
+h1* 
+state:1
+rend:100
+balan:6
+cg:10
+e1* 
+state:1
+appm:1.5
+cg:5
+e2* 
+state:1
+appm:1.3
+cg:8
+e3*
+state:1
+appm:1.3
+cg:8
+e4* 
+state:1
+appm:0.9
+cg:15
+e5* 
+state:1
+appm:1
+cg:15
+PORCENTAGEM PRO STAKE$
+0.1
+RISCO PORCENTAGEM PRA BAIXO$
+7
+RISCO PORCENTAGEM PRA CIMA$
+7
+PATH WEBDRIVER$
+C:\Users\rodri\Documents\Coding\bet365-regis\chromedriver
+CAMPEONATOS$
+alemanha
+argentina
+europa
+brasil
+vietnã
